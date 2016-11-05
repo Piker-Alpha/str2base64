@@ -2,10 +2,10 @@
 
 #
 # Script (str2base64.sh) to convert a string to base64 data in a way that it can be 
-# uses for properties as text <"desired text"> instead of <646573697265642074657874>
+# used for properties as text <"desired text"> instead of <646573697265642074657874>
 # 
 #
-# Version 1.0 - Copyright (c) 2013-2016 by Pike R. Alpha
+# Version 1.1 - Copyright (c) 2013-2016 by Pike R. Alpha
 #
 
 #
